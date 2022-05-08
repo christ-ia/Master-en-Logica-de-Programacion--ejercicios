@@ -1,0 +1,14 @@
+{
+  "name": "test-para-ejercicios",
+  "version": "1.0.0",
+  "description": "test con jest ejercicios de logica",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Christian Aguilar Rojas",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
